@@ -1,5 +1,11 @@
-# 💫 About Me:
-2024 Goals: To become a pasionate Web Developer.<br>I’m looking to collaborate on Web development and problem solving.<br>I’m looking for help with the programming community.<br>I’m currently learning Django Framework and doing competitive programming in online judge.<br>Ask me about programming.
+<h1 align="center" style="color: blue;">Hi there, I'm Mohammad Elias 👋</h1>
+<h3 align="center" style="color: blue;">A passionate learner, problem solver, and developer from Bangladesh!!</h3>
+
+- 2024 Goals: To become a pasionate Web Developer.
+- I’m looking to collaborate on Web development and problem solving.
+- I’m looking for help with the programming community.
+- I’m currently learning Django Framework and doing competitive programming in online judge.
+- Ask me about programming.
 
 
 ## 🌐 Socials:
