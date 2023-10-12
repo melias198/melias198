@@ -12,7 +12,7 @@
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-elias) 
-[![Codeforces](https://img.shields.io/badge/Codeforces-%2314354C.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/melias198)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%2314354C.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/elias198)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%235B463F.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/meliash198)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/meliash198)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@meliash198)
