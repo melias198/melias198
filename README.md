@@ -23,7 +23,7 @@
 
 I'm a **Backend Engineer** with nearly 2 years of professional experience building production-grade web applications and APIs. My work centers on designing systems that are **maintainable, performant, and built to scale** — from data model design through deployment.
 
-I specialize in the **Python/Django ecosystem**, with hands-on experience in RESTful API architecture, real-time features with Django Channels, async task processing with Celery, caching strategies, and relational database design. Outside of my main stack, I sharpen my problem-solving skills through competitive programming.
+I specialize in the **Python/Django ecosystem**, with hands-on experience in RESTful API architecture, real-time features with Django Channels, async task processing with Celery, caching strategies, and relational database design. Outside of my main stack, I sharpen problem-solving skills through competitive programming.
 
 ```python
 class BackendEngineer:
@@ -32,16 +32,16 @@ class BackendEngineer:
     experience = "~2 years (Backend Engineering)"
     focus      = ["API Design", "System Architecture", "Database Optimization"]
     stack      = {
-        "languages":   ["Python", "C", "C++", "JavaScript"],
-        "framework":   ["Django", "Django REST Framework", "Celery", "Django Channels"],
-        "database":    ["PostgreSQL", "MySQL"],
-        "caching":     ["Redis", "Django Cache Framework"],
-        "testing":     ["unittest", "pytest", "DRF APITestCase"],
-        "cloud/devops":["Docker", "Git", "Linux", "Basic Deployment"],
-        "tools":       ["VS Code", "Postman"],
-        "frontend":    ["HTML5", "CSS3", "JavaScript"],
+        "languages":    ["Python", "C", "C++", "JavaScript"],
+        "frameworks":   ["Django", "Django REST Framework", "Celery", "Django Channels"],
+        "databases":    ["PostgreSQL", "MySQL"],
+        "caching":      ["Redis", "Django Cache Framework"],
+        "testing":      ["unittest", "pytest", "DRF APITestCase"],
+        "devops":       ["Docker", "Git", "Linux", "Basic Deployment"],
+        "tools":        ["VS Code", "Postman"],
+        "frontend":     ["HTML5", "CSS3", "JavaScript"],
     }
-    currently  = "Building scalable APIs · Studying system design · Competitive programming"
+    currently  = "Scalable APIs · System design · Competitive programming"
 ```
 
 ---
@@ -55,7 +55,7 @@ class BackendEngineer:
 | **Authentication** | JWT, session auth, token refresh flows, OAuth2, permission & throttling classes |
 | **Database** | Schema design, query optimization, indexing, ORM proficiency, raw SQL, migrations |
 | **Caching** | Redis-backed caching, cache invalidation strategies, Django cache framework |
-| **Testing** | Unit tests, integration tests, API tests with DRF's APITestCase & pytest |
+| **Testing** | Unit tests, integration tests, API tests with DRF APITestCase & pytest |
 | **DevOps** | Docker, Git workflows, Linux server basics, environment & config management |
 | **Problem Solving** | Data structures & algorithms, competitive programming (Codeforces, LeetCode) |
 
@@ -95,15 +95,16 @@ class BackendEngineer:
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Stats
 
+<!-- Stats cards are auto-generated daily by GitHub Actions and stored in /profile/ -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melias198&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melias198&theme=radical&hide_border=false&layout=compact&langs_count=8"/>
+  <img height="180em" src="./profile/stats.svg" />
+  <img height="180em" src="./profile/top-langs.svg" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melias198&theme=radical&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=melias198&theme=radical&hide_border=false" />
 </div>
 
 ---
