@@ -1,63 +1,143 @@
-<h1 align="center" style="color: blue;">Hi there, I'm Mohammad Elias 👋</h1>
-<h3 align="center" style="color: blue;">
-Backend Engineer (Django & DRF) • Python Developer • Problem Solver
-</h3>
+<div align="center">
 
-<br>
+```
+╔══════════════════════════════════════════════════════╗
+║           MOHAMMAD ELIAS — BACKEND ENGINEER          ║
+╚══════════════════════════════════════════════════════╝
+```
 
-- 🎯 **2026 Goal**: Establish myself as a **professional Backend Engineer** specializing in Django & Django REST Framework.
-- 👀 **Areas of Interest**: Backend system design, scalable APIs, database optimization, and real-world problem solving.
-- 👯 **Collaboration**: Open to contributing to backend-heavy projects, SaaS platforms, and open-source initiatives.
-- 🌱 **Currently Focused On**: Advanced Django/DRF concepts, system design fundamentals, and competitive programming.
-- 💬 **Ask Me About**: Backend development, REST APIs, database design, authentication, and problem-solving strategies.
+**Crafting reliable, scalable server-side systems · Django · REST APIs · PostgreSQL**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-elias)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/meliash198)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/elias198)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/meliash198)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@meliash198)
+[![Profile Views](https://komarev.com/ghpvc/?username=melias198&style=flat-square&color=0e75b6)](https://github.com/melias198)
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-elias) 
-[![Codeforces](https://img.shields.io/badge/Codeforces-%2314354C.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/elias198)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%235B463F.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/meliash198)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/meliash198)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@meliash198)
+</div>
 
 ---
 
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-0052cc?style=for-the-badge&logo=api&logoColor=white)
+## $ whoami
+
+I'm a **Backend Engineer** with nearly 2 years of professional experience building production-grade web applications and APIs. My work centers on designing systems that are **maintainable, performant, and built to scale** — from data model design through deployment.
+
+I specialize in the **Python/Django ecosystem**, with hands-on experience in RESTful API architecture, real-time features with Django Channels, async task processing with Celery, caching strategies, and relational database design. Outside of my main stack, I sharpen my problem-solving skills through competitive programming.
+
+```python
+class BackendEngineer:
+    name       = "Mohammad Elias"
+    location   = "Chattogram, Bangladesh"
+    experience = "~2 years (Backend Engineering)"
+    focus      = ["API Design", "System Architecture", "Database Optimization"]
+    stack      = {
+        "languages":   ["Python", "C", "C++", "JavaScript"],
+        "framework":   ["Django", "Django REST Framework", "Celery", "Django Channels"],
+        "database":    ["PostgreSQL", "MySQL"],
+        "caching":     ["Redis", "Django Cache Framework"],
+        "testing":     ["unittest", "pytest", "DRF APITestCase"],
+        "cloud/devops":["Docker", "Git", "Linux", "Basic Deployment"],
+        "tools":       ["VS Code", "Postman"],
+        "frontend":    ["HTML5", "CSS3", "JavaScript"],
+    }
+    currently  = "Building scalable APIs · Studying system design · Competitive programming"
+```
+
+---
+
+## ⚙️ Core Competencies
+
+| Domain | Skills |
+|---|---|
+| **API Development** | RESTful API design, DRF serializers, viewsets, routers, filtering, pagination, versioning |
+| **Async & Real-time** | Celery task queues, Celery Beat scheduling, Django Channels, WebSockets |
+| **Authentication** | JWT, session auth, token refresh flows, OAuth2, permission & throttling classes |
+| **Database** | Schema design, query optimization, indexing, ORM proficiency, raw SQL, migrations |
+| **Caching** | Redis-backed caching, cache invalidation strategies, Django cache framework |
+| **Testing** | Unit tests, integration tests, API tests with DRF's APITestCase & pytest |
+| **DevOps** | Docker, Git workflows, Linux server basics, environment & config management |
+| **Problem Solving** | Data structures & algorithms, competitive programming (Codeforces, LeetCode) |
+
+---
+
+## 🛠 Tech Stack
+
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Channels](https://img.shields.io/badge/Django%20Channels-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Databases**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🏆 Codeforces Stats:
-![](https://raw.githubusercontent.com/melias198/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+## 📈 GitHub Activity
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melias198&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melias198&theme=radical&hide_border=false&layout=compact&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melias198&theme=radical&hide_border=false" />
+</div>
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=melias198&theme=radical&hide_border=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=melias198&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=melias198&theme=radical&layout=compact)
+## 🏆 Competitive Programming
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/melias198/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/melias198/cf-stats/main/output/max_rating.svg" />
+</div>
+
+> Consistent participant on **Codeforces**, **LeetCode**, and **CodeChef** — competitive programming directly informs how I approach algorithmic challenges and backend performance problems in production.
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📌 What I'm Working On
+
+- 🔨 Building production-ready backend systems with **Django, DRF, Celery & Channels**
+- 📐 Deepening knowledge of **system design** — scalability, message queues, microservices
+- 🧪 Writing comprehensive **test suites** and improving code quality practices
+- ☁️ Expanding **Docker & deployment** skills toward a cloud-proficient engineering profile
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=melias198&icon=0&color=0)](https://visitcount.itsvg.in)
-![](https://raw.githubusercontent.com/melias198/cf-stats/main/output/max_rating.svg)
+## 🤝 Open To
+
+- Collaborating on **backend-heavy open-source projects**
+- Contributing to **SaaS platforms** and API-driven products
+- Discussing **backend architecture, API design, or Django best practices**
+
+**Reach me:** [LinkedIn](https://linkedin.com/in/mohammad-elias) · Open a GitHub issue or discussion on any of my repos
 
 ---
 
-<!-- Profile customized for 2026 backend-focused career growth -->
+<div align="center">
+  <sub><em>"First, solve the problem. Then, write the code." — John Johnson</em></sub>
+</div>
