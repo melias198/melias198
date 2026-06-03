@@ -98,10 +98,10 @@ class BackendEngineer:
 ## 📊 GitHub Stats
 
 <!-- Stats cards are auto-generated daily by GitHub Actions and stored in /profile/ -->
-<div align="center">
-  <img height="180em" src="./profile/stats.svg" />
-  <img height="180em" src="./profile/top-langs.svg" />
-</div>
+<!-- <div align="center"> -->
+  <!-- <img height="180em" src="./profile/stats.svg" /> -->
+  <!-- <img height="180em" src="./profile/top-langs.svg" /> -->
+<!-- </div> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=melias198&theme=radical&hide_border=false" />
