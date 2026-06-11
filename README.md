@@ -136,7 +136,7 @@ class BackendEngineer:
 - Contributing to **SaaS platforms** and API-driven products
 - Discussing **backend architecture, API design, or Django best practices**
 
-**Reach me:** [Portfolio](https://mohammadelias.com) · [Contact](https://mohammadelias.com/#contact) · [LinkedIn](https://linkedin.com/in/mohammad-elias) · Open a GitHub issue or discussion on any of my repos
+**Reach me:** [Portfolio](https://mohammadelias.com) · [Email](mailto:contact@mohammadelias.com) · [LinkedIn](https://linkedin.com/in/mohammad-elias) · Open a GitHub issue or discussion on any of my repos
 
 ---
 
