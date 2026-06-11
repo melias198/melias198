@@ -9,6 +9,7 @@
 **Crafting reliable, scalable server-side systems · Django · REST APIs · PostgreSQL**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-elias)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://mohammadelias.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/meliash198)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/elias198)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/meliash198)
@@ -135,7 +136,7 @@ class BackendEngineer:
 - Contributing to **SaaS platforms** and API-driven products
 - Discussing **backend architecture, API design, or Django best practices**
 
-**Reach me:** [LinkedIn](https://linkedin.com/in/mohammad-elias) · Open a GitHub issue or discussion on any of my repos
+**Reach me:** [Portfolio](https://mohammadelias.com) · [Contact](https://mohammadelias.com/#contact) · [LinkedIn](https://linkedin.com/in/mohammad-elias) · Open a GitHub issue or discussion on any of my repos
 
 ---
 
